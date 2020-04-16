@@ -1,1 +1,1 @@
-# curriculum
+# My personal curriculum writen in latex
