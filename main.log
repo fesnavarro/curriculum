@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.16)  16 APR 2020 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.16)  16 APR 2020 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1444,96 +1444,96 @@ Overfull \hbox (4.84172pt too wide) in alignment at lines 5--5
  []
 
 
-Overfull \hbox (13.44533pt too wide) in alignment at lines 41--41
+Overfull \hbox (13.44533pt too wide) in alignment at lines 42--42
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
  []
 
 
-Overfull \hbox (4.96175pt too wide) in alignment at lines 41--41
+Overfull \hbox (4.96175pt too wide) in alignment at lines 42--42
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+Raleway-TLF on input line 41.
-LaTeX Font Info:    No file OMSRaleway-TLF.fd. on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+Raleway-TLF on input line 42.
+LaTeX Font Info:    No file OMSRaleway-TLF.fd. on input line 42.
 
 LaTeX Font Warning: Font shape `OMS/Raleway-TLF/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 41.
+(Font)              for symbol `textbullet' on input line 42.
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 41--41
+Overfull \hbox (4.84172pt too wide) in alignment at lines 42--42
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 41--41
+Overfull \hbox (4.84172pt too wide) in alignment at lines 42--42
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/fesnavarro/Documents/projectsCode/curriculum/image/faceLeft.jpg> </home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png>]
-Overfull \hbox (13.44533pt too wide) in alignment at lines 88--88
+Overfull \hbox (13.44533pt too wide) in alignment at lines 89--89
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 
-Overfull \hbox (4.96175pt too wide) in alignment at lines 88--88
+Overfull \hbox (4.96175pt too wide) in alignment at lines 89--89
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 88--88
+Overfull \hbox (4.84172pt too wide) in alignment at lines 89--89
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 88--88
+Overfull \hbox (4.84172pt too wide) in alignment at lines 89--89
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 
  []
 
 
-Overfull \hbox (12.21254pt too wide) in paragraph at lines 88--88
+Overfull \hbox (12.21254pt too wide) in paragraph at lines 89--89
 []\T1/Raleway-TLF/m/n/10 All ide-al-iza-tion of the con-trol ar-chi-tec-ture, de-vel-op-ment of elec-tri-cal projects
  []
 
@@ -1568,6 +1568,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--123
  []
 
 
+Overfull \hbox (9.13264pt too wide) in paragraph at lines 123--123
+\T1/Raleway-TLF/m/n/10 Gate-ways and other com-po-nents of Rock-well (Logix 5, 500, 5000), Siemens
+ []
+
+
 Overfull \hbox (4.84172pt too wide) in alignment at lines 123--123
 [] 
  []
@@ -1578,47 +1583,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--123
  []
 
 
-Overfull \hbox (13.44533pt too wide) in alignment at lines 147--147
+Overfull \hbox (13.44533pt too wide) in alignment at lines 146--146
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Overfull \hbox (4.96175pt too wide) in alignment at lines 147--147
+Overfull \hbox (4.96175pt too wide) in alignment at lines 146--146
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 147--147
+Overfull \hbox (4.84172pt too wide) in alignment at lines 146--146
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Overfull \hbox (4.84172pt too wide) in alignment at lines 147--147
+Overfull \hbox (4.84172pt too wide) in alignment at lines 146--146
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--147
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
 
-Overfull \hbox (0.97174pt too wide) in paragraph at lines 147--147
+Overfull \hbox (0.97174pt too wide) in paragraph at lines 146--146
 []\T1/Raleway-TLF/m/n/10 Several projects in part-ner-ship with ThyssenKrupp at Mercedez-SBC Bens
  []
 
@@ -1639,13 +1644,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 365.
 Here is how much of TeX's memory you used:
  21753 strings out of 492982
  424244 string characters out of 6134896
- 546338 words of memory out of 5000000
+ 547916 words of memory out of 5000000
  24885 multiletter control sequences out of 15000+600000
  87053 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,69p,533b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/fesnavarro/Documents/projectsCode/curriculum/main.pdf (3 pages, 112383 bytes).
+Output written on /home/fesnavarro/Documents/projectsCode/curriculum/main.pdf (3 pages, 112648 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
