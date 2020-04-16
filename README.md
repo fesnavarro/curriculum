@@ -1,1 +1,1 @@
-# My curriculum made in Latex
+# My curriculum written in Latex
