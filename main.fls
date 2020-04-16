@@ -291,6 +291,9 @@ INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/interests.tex
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/interests.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/title.tex
@@ -300,9 +303,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Bold-tlf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/impallari/raleway/Raleway-Regular-tlf-t1.tfm
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/profile.tex
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/profile.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/workExperience.tex
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/workExperience.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/impallari/raleway/Raleway-Bold-tlf-t1.vf
