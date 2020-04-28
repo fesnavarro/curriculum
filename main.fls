@@ -282,6 +282,9 @@ INPUT /home/fesnavarro/Documents/projectsCode/curriculum/content/contact.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomeone.tfm
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/image/qrcode.png
@@ -320,6 +323,7 @@ INPUT /home/fesnavarro/Documents/projectsCode/curriculum/main.aux
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/main.out
 INPUT /home/fesnavarro/Documents/projectsCode/curriculum/main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
