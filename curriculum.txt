@@ -1,0 +1,60 @@
+Responsible for defining and managing a software development team to integrate industrial automation with information technology using Open Source tools
+• Deployment and full integration of the company’s ERP, including all internal and external processes
+• Deploy and integration of several systems applications using AWS, Lin-de, Google Cloud and others for customers such as EPLAN, GeneralMotors, Ross Controls
+• Management and development of several trade-up in production lines in partnership with Rockwell Automation and Edge group
+
+Technologies include:
+• GIT (on GitLab) for all projects, Ansible + Docker for 1-click deployments
+• Frameworks based on python and javascript like Django, Flask, Odoo OEE (WebSockets, REST), QML (QT), React (Typescript, GraphQl, Redux)
+• PostgreSQL, MongoDB
+• Several open Source tools and projects like Zabbix, Axterisk, Matrix (on Riot), Webdav, Bareos, Traefik, Pfsense
+
+Memorable achievements include:
+• Automation and IOT from scratch of a painting line with KTL technology at Randon Implementos (Caxias do Sul), automation included elements such as Elipse (SCADA) superviser system, 4 HMI, local reading in OPCUA by a python client, storage and exposure by https for consumption in infrastructure using Grafana in the exhibition
+• Using an ESP32 (with more internal resources than an Arduino) for local collection and transmission, in addition to a RapsberryPI as a consumer gateway for the external server API. The integration of the Welding Maintenance Team (General Welding Maintenance - SCS) to the ERP Odoo system was resolved in the process, including integrations such as point control and automated QRCode reading of the equipment with the ERP
+
+Project Manager / Sofware Enginneer
+Industrial Automation
+Jan 08 - Fev 16
+[EIA-SANMARTIN-GOC] - 
+Working for smaller companies I was responsible for development and administration at the various levels of these companies whose main customers were large industries
+• Technical team management with decision and selection of professionals to compose a development and installation team
+• Support and direct development of commercial proposals, training and presentations
+Technologies include:
+• Barcode position, encoders, Wifi Radios and bluetooth
+• Working with PMI methodologies, check lists and quality procedures
+Memorable achievements include:
+• All idealization of the control architecture, development of electrical projects and infrastructure in addition to the application of general control of the final chassis assembly line at Randon Implementos (Caxias do Sul). The project was mentioned in international articles as being a pioneer in applying several technologies together
+• I coordinated a massive migration from General Motors (SCS) to General Motors (SJC) plants in partnership with Tyssen Krupp, in this project I even defined the electrical shutdowns and executed the new start-up in the new plant, the project was perfect and almost no application changes were necessary, except for integrations between the robotic cells and the local network
+• In response to a call from Eisemman for automation at MAN (Resende), I alone made all the necessary changes for the operation of the Carese painting line, with more than 200 conveyors, elevators, transfer tables and other elements. The main screen had more than 1000 tags interconnected. n OfflineScreens n OnlineScreens
+• In partnership with the company LAN (China) I was able to meet the needs in the start-up of the final assembly line at Nissan (Resende) with excellence, at the beginning of the work there were many Brazilian and Chinese programmers interacting with some difficulty in an environment of generalized delay. On the third day I had already rewritten the Chinese codes for the start of the lines and I took over as the main responsible for the start-up directly with the Japanese from Nissan
+• Development of automation control and start-up application for AMBEV factory (Curitiba), it was the first experience with the beverage industry and the project included an industrial washer controlled by 8 servants, two boxers, accelerator tables and system integrated vision
+
+Software Enginneer
+Industrial Automation
+Jan 05 - Dec 07
+[SPI-TECNEL] - 
+Responsible for the direct development of applications and parameterization of automated lines in addition to official technical assistance
+• Direct development of complete software applications
+• Emergency technical assistance to a range of customers such as Alergan (pharmacy), Taboca (mining company), Mercedez Bens (final assembly), General Motors (bodyshop), Coral (chemical), Cofap (parts) and others, demand that required maturity and procedures within the best PMI practices
+• Official representative of Rockwell do Brasil in projects and assistance
+Technologies include:
+• Various models of PLC (LADDER, Block Instruction, STL), HMI, Inverters, Gateways and other components of Rockwell (Logix 5, 500, 5000), Siemens (S5, S7, TIA), Mitsubish, Owron, SEW, ATOS, Schneider, Sick, Prosoft
+• Industrial networks and protocols like Modbus (many), Devicenet, Ethernet CIP, Profibus, Profinet, Interbus, DH +, OPC and OPCUA
+• Integration with robots and tools Fanuc, Kuka, Motoman
+Memorable achievements include:
+• Automation of a mining line in the Amazon rainforest under social isolation for the production of nickel, using several industrial networks integratedin the same system as Modbus. All the work done without external assistance during 55 days of start up, there was no internet or any external communication within the indigenous village
+• Software design and development at General Motors for the PRISMA automation line, 44 robots and 4 integrated contrologix, that was my first big project as a software enginneer, the project had a partnership with Daefuku, which provided equipment for the aero system and infrastructure for the new RFID system
+
+ElectricalIndustrialDesigner
+Automation
+Jan 01 - Jan 05
+[EIA] - 
+I started as an intern and was promoted in the first months. Responsible for the development of electrical projects
+• Electrical projects for various factory standards such as General Motors, Volkswagen, Mercedez Bens, Cummins, MWM, Bosh, Pirelli and others
+• Responsible for quality in the manufacture of panels and field interconnection
+• Purchase of material, and financial monitoring of the project to anticipate the budget
+Technologies include:
+• Autocad, EPLAN 5.20, ISA ERP (deprecrated), Excell in advance with VB scripts
+Memorable achievements include:
+• Several projects in partnership with ThyssenKrupp at Mercedez-SBC Bens the biggest one was the complete bodyshop of Mercedez Bens, the first line in Brazil entirely handled by AGV

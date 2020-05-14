@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  28 APR 2020 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  30 APR 2020 15:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1428,21 +1428,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-
- []
-
-
 Overfull \hbox (4.84172pt too wide) in alignment at lines 15--15
 [] 
  []
 
 ) (/home/fesnavarro/Documents/projectsCode/curriculum/content/workExperience.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--4
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
  []
@@ -1636,7 +1626,7 @@ Overfull \hbox (0.97174pt too wide) in paragraph at lines 164--164
 []\T1/Raleway-TLF/m/n/10 Several projects in part-ner-ship with ThyssenKrupp at Mercedez-SBC Bens
  []
 
-) [3] [4]
+) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
  (/home/fesnavarro/Documents/projectsCode/curriculum/main.aux)
@@ -1651,18 +1641,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 364.
  ) 
 Here is how much of TeX's memory you used:
- 21767 strings out of 492982
- 424609 string characters out of 6134896
- 550478 words of memory out of 5000000
- 24894 multiletter control sequences out of 15000+600000
+ 21762 strings out of 492982
+ 424537 string characters out of 6134896
+ 551937 words of memory out of 5000000
+ 24890 multiletter control sequences out of 15000+600000
  87369 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,69p,487b,646s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,69p,487b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/fesnavarro/Documents/projectsCode/curriculum/main.pdf (4 pages, 115063 bytes).
+Output written on /home/fesnavarro/Documents/projectsCode/curriculum/main.pdf (3 pages, 114662 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
